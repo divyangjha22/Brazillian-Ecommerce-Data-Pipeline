@@ -1,0 +1,4 @@
+notebook
+pandas
+mysql-connector-python
+pymongo
